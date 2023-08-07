@@ -21,7 +21,7 @@ export const users = [
     picturePath: "harmony.jpg",
     friends: [],
     location: "Masvingo, Dendera Crescent",
-    occupation: "FinX and Beechat Developer",
+    occupation: "BeeX and Beechat Developer",
     viewedProfile: 12351,
     impressions: 55555,
     createdAt: 1595589072,
@@ -37,14 +37,14 @@ export const posts = [
     firstName: "Harmony",
     lastName: "Murombo",
     location: "Masvingo, Dendera Crescent",
-    description: "Hello everyone , i am the developer of FinX and Beechat ,beechat helps businesses and government to improve customer satisfaction and efficiency,which ultimately leads to better financial perfomance,if you have any questions feel free to ask",
+    description: "Hello everyone , i am the developer of BeeX and Beechat ,beechat helps businesses and government to improve customer satisfaction and efficiency,which ultimately leads to better financial perfomance,if you have any questions feel free to ask",
     picturePath: "post1.jpg",
     userPicturePath: "harmony.jpg",
     likes: new Map([
       [userIds[1], true],
     ]),
     comments: [
-      "wow the best and modern platforms in Zimbabwe FinX can help many businesses in Zimbabwe.",
+      "wow the best and modern platforms in Zimbabwe BeeX can help many businesses in Zimbabwe.",
       "Machine learning algorithms at its best",
       "Genius",
     ]
